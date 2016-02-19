@@ -1,0 +1,11 @@
+{
+  "name": "arcgis-legend-generator",
+  "version": "0.0.0",
+  "description": "ArcGIS Legend Generator",
+  "main": "app.js",
+  "author": {
+    "name": "jacobsj",
+    "email": ""
+  },
+  "private": true
+}
